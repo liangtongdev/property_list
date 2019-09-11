@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://lbssh.eepsoft.cn/AppInstallFile/ios/ccs/ALEForSH.png</string>
+					<string>http://125.46.29.147:8851/EepmInstallFile/ios/lbs/ccs/ALEForSH.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
